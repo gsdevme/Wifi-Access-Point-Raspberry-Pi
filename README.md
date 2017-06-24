@@ -7,7 +7,7 @@ Check the Wireless Interface connected to the Pi can support `AP`
 ```bash
 iw list | grep "Supported interface modes" -A 8
 ```
-![image](check-interace-works.png)
+![image](check-interface-works.png)
 
 ## Packages
 
